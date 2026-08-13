@@ -2,7 +2,7 @@ package com.flower.flower_backend.model;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "flowers")
+@Table(name = "flower")
 public class flower {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
