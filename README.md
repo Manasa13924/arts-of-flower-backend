@@ -14,11 +14,6 @@ Backend service for the Arts of Flower flower-ordering website, built with **Spr
 ## Related Repo
 Frontend (HTML/CSS/JavaScript): [arts-of-flower-frontend](https://github.com/Manasa13924/arts-of-flower-frontend)
 
-## Running locally
-```bash
-# Configure your MySQL connection in application.properties, then:
-./mvnw spring-boot:run
-```
 
 ## Status
 Built as a learning project to practice full-stack development — connecting a Spring Boot backend, MySQL storage, and payment gateway integration to a real frontend.
